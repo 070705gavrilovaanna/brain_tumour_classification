@@ -2,7 +2,7 @@
 
 Проект по классификации медицинских изображений: определение наличия опухоли на МРТ-снимках мозга. Сравниваются три архитектуры: самописная CNN, CNN с Dropout и предобученная ResNet18.
 
-**Ссылка на проект:** [brain_tumor_classification.ipynb](https://colab.research.google.com/drive/1qfWfnHe19-XqQ3OeSIunqcTA2nIRwRaI#scrollTo=zUiuqRGfTUeL)
+**Ссылка на проект:** [brain_tumor_classification.ipynb](https://colab.research.google.com/drive/1qfWfnHe19-XqQ3OeSIunqcTA2nIRwRaI#scrollTo=co3surodN5Hc)
 **Источник данных:** [Brain Tumor MRI Dataset на Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection/data)
 
 ---
